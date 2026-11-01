@@ -138,9 +138,8 @@ Konsekuensinya: sekitar **1 dari 4 lesi jinak akan ditandai risiko tinggi**. Ini
 
 ## Keterbatasan
 
-Bagian ini sama pentingnya dengan hasil evaluasi.
 
-1. **Perbedaan domain (*domain shift*).** Model dilatih dengan **foto dermoskopi** (alat pembesar khusus, pencahayaan merata, lesi memenuhi frame), sedangkan aplikasi menerima **foto kamera HP biasa**. Performa pada foto HP hampir pasti lebih rendah dari angka di atas dan **belum diukur**.
+1. **Perbedaan domain (*domain shift*).** Model dilatih dengan **foto dermoskopi** (alat pembesar khusus, pencahayaan merata, lesi memenuhi frame), sedangkan aplikasi menerima **foto kamera HP biasa**. 
 2. **Kemungkinan kebocoran data.** Dataset tidak menyertakan ID pasien atau lesi, sehingga tidak bisa dipastikan bahwa lesi yang sama tidak muncul di data latih dan data uji. Angka evaluasi bisa sedikit terlalu optimistis.
 3. **Kanker masih bisa terlewat.** Pada test set, 17 dari 300 lesi ganas tetap terlewat. Hasil "risiko rendah" **bukan** jaminan lesi jinak.
 4. **Klasifikasi biner.** Model hanya membedakan jinak vs. ganas, tidak mengenali jenis lesi spesifik dan tidak mendeteksi lokasi lesi di foto.
