@@ -51,11 +51,11 @@ Tiga prinsip yang dipegang:
 <!-- Sesuaikan nama file dengan isi folder design/ -->
 | Beranda | Menganalisis | Hasil: risiko tinggi | Hasil: risiko rendah |
 |:---:|:---:|:---:|:---:|
-| <img src="design/01_beranda.png" width="200"> | <img src="design/03_menganalisis.png" width="200"> | <img src="design/04_hasil_tinggi.png" width="200"> | <img src="design/05_hasil_rendah.png" width="200"> |
+| <img src="design/Beranda@1x.png" width="200"> | <img src="design/Menganalisis@1x.png" width="200"> | <img src="design/Hasil risiko tinggi@1x.png" width="200"> | <img src="Hasil risiko rendah@1x.png" width="200"> |
 
 | Tips foto | Edukasi ABCDE | Riwayat | Detail riwayat |
 |:---:|:---:|:---:|:---:|
-| <img src="design/02_tips_foto.png" width="200"> | <img src="design/06_edukasi.png" width="200"> | <img src="design/08_riwayat.png" width="200"> | <img src="design/10_riwayat_detail.png" width="200"> |
+| <img src="design/Tips foto@1x.png" width="200"> | <img src="design/Edukasi ABCDE@1x.png" width="200"> | <img src="design/Riwayat@2x.png" width="200"> | <img src="design/Detail riwayat@2x.png" width="200"> |
 
 Spesifikasi desain lengkap (warna, tipografi, komponen, dan tiap layar) ada di [`design/DESIGN.md`](design/DESIGN.md).
 
